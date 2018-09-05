@@ -1,4 +1,2 @@
-Binary
 System
 Tachiyomi
-fdroidrepo
